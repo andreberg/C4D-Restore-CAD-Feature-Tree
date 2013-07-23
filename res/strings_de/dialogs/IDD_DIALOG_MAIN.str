@@ -1,0 +1,14 @@
+// C4D-DialogResource
+
+DIALOGSTRINGS IDD_DIALOG_MAIN
+{
+  IDS_BUTTON   "Do It!";
+  IDS_BUTTON1  "Cancel";
+  IDS_CHECK    "Check box";
+  IDS_DIALOG   "Restore CAD Feature Tree";
+  IDS_STATIC   "Split Regex";
+  IDS_STATIC1  "Settings";
+  IDS_STATIC2  "Group";
+  IDS_STATIC3  "Name Fixes";
+  IDS_STATIC4  "Group";
+}
